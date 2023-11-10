@@ -1,0 +1,26 @@
+[
+	{
+		"file": "C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\Source\\GoblinChaos\\GoblinChaos.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\.vscode\\compileCommands_GoblinChaos\\GoblinChaos.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\Source\\GoblinChaos\\GoblinChaos.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\.vscode\\compileCommands_GoblinChaos\\GoblinChaos.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\Source\\GoblinChaos\\GoblinChaos.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.35.32215\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\development\\Documents\\Sandbox\\Repositories\\GoblinChaos\\GoblinChaos\\.vscode\\compileCommands_GoblinChaos\\GoblinChaos.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
+	}
+]
